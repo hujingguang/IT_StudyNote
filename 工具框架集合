@@ -16,4 +16,6 @@
 网络相关
   1. 内网穿透： localtunnel, ngrok , frp 
   
-      
+
+存储相关
+  1. 对象存储： minio, seafile
