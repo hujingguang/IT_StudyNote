@@ -19,3 +19,7 @@
 
 存储相关
   1. 对象存储： minio, seafile
+
+
+AI相关
+  1. 模型部署：vLLM + Ray(多GPU集群本地模型) , ollama(本地模型)
