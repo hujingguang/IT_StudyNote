@@ -1,0 +1,15 @@
+测试相关
+  1. 自动化测试
+      框架： allure
+
+运维相关
+  1. 数据库
+      审核工具： Archery, yarning, bytebase
+  2. devops相关
+
+  3. 云原生
+      k8s集群管理工具：KubeSphere ， karmadar
+      docker工具： crane远程镜像下载
+  4. 自动化工具：Pulumi , terraform, ansible tower
+  
+      
