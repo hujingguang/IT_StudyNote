@@ -23,3 +23,7 @@
 
 AI相关
   1. 模型部署：vLLM + Ray(多GPU集群本地模型) , ollama(本地模型)
+
+
+前端相关
+  1. vue模板： vuejs + Naive UI + fastapi
