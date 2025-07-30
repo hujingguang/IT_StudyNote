@@ -27,7 +27,9 @@
 
 AI相关
   1. 模型部署：vLLM + Ray(多GPU集群本地模型) , ollama(本地模型)
+  2. 开源Ai Agent设计系统: coze stuidio
 
 
 前端相关
   1. vue模板： vuejs + Naive UI + fastapi
+  2. ace.js: 代码&SQL语法高亮框架
