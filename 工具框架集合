@@ -27,7 +27,7 @@
 
 AI相关
   1. 模型部署：vLLM + Ray(多GPU集群本地模型) , ollama(本地模型)
-  2. 开源Ai Agent设计系统: coze stuidio
+  2. 开源Ai Agent设计系统: coze stuidio, dify
 
 
 前端相关
