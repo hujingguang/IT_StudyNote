@@ -10,6 +10,7 @@
   3. 云原生
       k8s集群管理工具：KubeSphere ， karmadar
       docker工具： crane远程镜像下载
+      轻量级k8s发行版: k3s, rke2 (单文件集成k8s所有组件) rke2更接近完整版k8s
   4. 自动化工具：Pulumi , terraform, ansible tower
 
   5. 告警处理： elasticAlert, AlertManager, n9e
