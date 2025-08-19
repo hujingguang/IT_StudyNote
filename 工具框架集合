@@ -36,6 +36,10 @@ AI相关
   1. vue模板： vuejs + Naive UI + fastapi
   2. ace.js: 代码&SQL语法高亮框架
 
+Python相关
+  1. 前后端一站式python框架: reflex https://github.com/reflex-dev/reflex
+
+
 
 UI设计
   1. 设计工具：pixso
