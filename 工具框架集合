@@ -1,8 +1,8 @@
-测试相关
+## 测试相关
   1. 自动化测试
       框架： allure + pytest
 
-运维相关
+## 运维相关
   1. 数据库
       审核工具： Archery, yarning, bytebase
   2. devops相关
@@ -18,29 +18,29 @@
   6. APM链路跟踪: skywalking , deepflow
 
 
-网络相关
+## 网络相关
   1. 内网穿透： localtunnel, ngrok , frp 
   
 
-存储相关
+## 存储相关
   1. 对象存储： minio, seafile
 
 
-AI相关
+## AI相关
   1. 模型部署：vLLM + Ray(多GPU集群本地模型) , ollama(本地模型)
   2. 开源Ai Agent设计系统: coze stuidio, dify
   3. Ai Agent工具: gemini cli, 
 
 
-前端相关
+## 前端相关
   1. vue模板： vuejs + Naive UI + fastapi
   2. ace.js: 代码&SQL语法高亮框架
 
-Python相关
+## Python相关
   1. 前后端一站式python框架: reflex 
 
 
-UI设计
+## UI设计
   1. 设计工具：pixso
   2. 矢量图素材: svgrepo, pqoqubbw/icons
 
