@@ -1,7 +1,11 @@
 1. 目录结构
   index.html: 首页文件
-  src/main.js: 入口文件，在index.html中作为<script type=module>模板进行加载，该文件中初始化vue实例，注册插件，挂在根实例。
   vite.config.js: vite编译配置文件
   .env.xxx: 不同环境配置文件
+
   src/router/index.js: 在该文件注册路由信息，添加路由守卫等
-  src/permission/index.js: 权限信息工具处理
+  src/main.js: 入口文件，在index.html中作为<script type=module>模板进行加载，该文件中初始化vue实例，注册插件，挂在根实例。  
+  src/utils/permission.js: 权限处理方法工具
+  src/assets: 静态文件集合
+  src/componens/layout/xxx.vue: 布局组件，例如 Sidebar.vue, Content.vue, Header.vue, Footer.vue, MainLayout.vue
+  src/views/dashboard/dashboard.vue: 具体页面组件定义目录
