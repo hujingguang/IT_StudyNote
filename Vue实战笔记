@@ -9,3 +9,7 @@
   src/assets: 静态文件集合
   src/componens/layout/xxx.vue: 布局组件，例如 Sidebar.vue, Content.vue, Header.vue, Footer.vue, MainLayout.vue
   src/views/dashboard/dashboard.vue: 具体页面组件定义目录
+
+
+### 逻辑要点
+  1. 权限信息存封装到全局 store 中， token和用户信息 存放到 localStorage对象中。
