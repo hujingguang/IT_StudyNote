@@ -1,4 +1,4 @@
-1. 目录结构
+### 目录结构
   index.html: 首页文件
   vite.config.js: vite编译配置文件
   .env.xxx: 不同环境配置文件
@@ -13,3 +13,5 @@
 
 ### 逻辑要点
   1. 权限信息存封装到全局 store 中， token和用户信息 存放到 localStorage对象中。
+  2. 每个路由元数据中定义权限路径信息，通过beforeEach路由守卫中获取后台权限后对比鉴权
+  3. 
